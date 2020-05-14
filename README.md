@@ -137,9 +137,4 @@ ui <- fluidPage(
 )
 ```
 
-Links and Appendix
-========================================================
 
-- Shiny app: https://halici.shinyapps.io/Gapminder-Data-Visualization-using-Shiny-and-Plotly/
-- Source Code: https://github.com/Amen-Yengui/Developing-Data-Products-week-4
-- Presentation is available via RPubs: http://rpubs.com/nihathalici/Reproducible-Pitch-Presentation
